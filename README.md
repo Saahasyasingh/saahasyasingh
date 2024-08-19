@@ -22,9 +22,5 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact **i know a little bit of german and in sports i play hockey :D**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
 
 
