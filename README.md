@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">Hi 👋, I'm saahasya singh</h1>
+<h3 align="center">I have just started coding with basic HTML and CSS,this is to save my work incase i lose it</h3>
+
+
+- 📫 How to reach me **saahasya2012@gmail.com**
+
+- ⚡ Fun fact **i know a little bit of german and in sports i play hockey :D**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
+
