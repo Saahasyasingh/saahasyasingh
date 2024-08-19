@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm saahasya singh</h1>
 <h3 align="center">I have just started coding with basic HTML ,this is to save my work incase anyones interested </h3>
 
-
+- 🌍i live in India
 - 📫 How to reach me **saahasya2012@gmail.com**
-
-- ⚡ Fun fact **i know a little bit of german and in sports i play hockey :D**
+- 💻im learning HTML & CSS
+- ⚡ Fun fact **i know a little bit of german and in sports i play hockey **
 
 
 
