@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm saahasya singh</h1>
-<h3 align="center">I have just started coding with basic HTML and CSS,this is to save my work incase i lose it</h3>
+<h3 align="center">I have just started coding with basic HTML ,this is to save my work incase anyones interested </h3>
 
 
 - 📫 How to reach me **saahasya2012@gmail.com**
