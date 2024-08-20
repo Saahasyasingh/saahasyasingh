@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🌍i live in India
 - 📫 How to reach me **saahasya2012@gmail.com**
 - 💻im learning HTML & CSS
-- ⚡ Fun fact **i know a little bit of german and in sports i play hockey **
+- ⚡ Fun fact i know a little bit of german and in sports i play hockey 
 
 
 
