@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 - 🌍i live in India
 - 📫 How to reach me **saahasya2012@gmail.com**
-- 💻im learning HTML & CSS
-- ⚡ Fun fact i know a little bit of german and in sports i play hockey 
+- 💻i made this account to save my coding school work
+- ⚡ Fun fact i learn german but dont know shit in it, just remember how to introduce myself in it
 
 
 
